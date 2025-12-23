@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/acdh-oeaw/django-invitelink/compare/v0.2.0...v0.3.0) (2025-12-23)
+
+
+### Miscellaneous Chores
+
+* release 0.3.0 ([676bd6c](https://github.com/acdh-oeaw/django-invitelink/commit/676bd6cef014265d49ae802cc407d5a9946e5d06))
+
 ## [0.2.0](https://github.com/acdh-oeaw/apis-acdhch-django-invite/compare/v0.1.1...v0.2.0) (2024-12-03)
 
 

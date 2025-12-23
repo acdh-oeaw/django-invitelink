@@ -1,6 +1,6 @@
 [project]
 name = "django-invitelink"
-version = "0.2.0"
+version = "0.3.0"
 description = "Invite Links for Django Projects"
 authors = [{name="Birger Schacht", email="birger.schacht@oeaw.ac.at"}]
 license = "MIT"
