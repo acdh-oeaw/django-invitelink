@@ -1,4 +1,6 @@
-# apis_acdhch_django_invite
+# django_invitelink
+
+(formerly known as `apis_acdhch_django_invite`)
 
 Invite app for Django applications.
 
@@ -7,8 +9,8 @@ The invite endpoint is `/invite/<token>`.
 
 # Installation
 
-Add `apis_acdhch_django_invite` to your `INSTALLED_APPS`.
-Include the apis-acdhch-django-invite urls in your `urls.py`:
+Add `django_invitelink` to your `INSTALLED_APPS`.
+Include the `django_invitelink.urls` in your `urls.py`:
 ```
-urlpatterns += [path("", include("apis_acdhch_django_invite.urls")),]
+urlpatterns += [path("", include("django_invitelink.urls")),]
 ```

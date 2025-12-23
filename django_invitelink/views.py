@@ -4,8 +4,8 @@ from django.contrib.auth.forms import UserCreationForm
 from django.shortcuts import get_object_or_404
 from django.views.generic.edit import CreateView
 
-from apis_acdhch_django_invite.models import InviteToken
-from apis_acdhch_django_invite.signals import consume_invite
+from django_invitelink.models import InviteToken
+from django_invitelink.signals import consume_invite
 
 
 class Invite(CreateView):

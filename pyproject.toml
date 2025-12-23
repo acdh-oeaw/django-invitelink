@@ -1,7 +1,7 @@
 [project]
-name = "apis-acdhch-django-invite"
+name = "django-invitelink"
 version = "0.2.0"
-description = "Invite Links for APIS Instances"
+description = "Invite Links for Django Projects"
 authors = [{name="Birger Schacht", email="birger.schacht@oeaw.ac.at"}]
 license = "MIT"
 readme = "README.md"
@@ -12,9 +12,9 @@ dependencies = [
 ]
 
 [project.urls]
-source = "https://github.com/acdh-oeaw/apis-acdhch-django-invite"
-changelog = "https://github.com/acdh-oeaw/apis-acdhch-django-invite/blob/main/CHANGELOG.md"
-issues = "https://github.com/acdh-oeaw/apis-acdhch-django-invite/issues"
+source = "https://github.com/acdh-oeaw/django-invitelink"
+changelog = "https://github.com/acdh-oeaw/django-invitelink/blob/main/CHANGELOG.md"
+issues = "https://github.com/acdh-oeaw/django-invitelink/issues"
 
 [dependency-groups]
 dev = [
