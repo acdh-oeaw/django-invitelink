@@ -10,7 +10,7 @@ from django_invitelink.signals import consume_invite
 
 class Invite(CreateView):
     form_class = UserCreationForm
-    template_name = "invite.html"
+    template_name = "django_invitelink/invite.html"
     success_url = settings.LOGIN_URL
 
     def setup(self, *args, **kwargs):
