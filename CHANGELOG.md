@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.0](https://github.com/acdh-oeaw/django-invitelink/compare/v0.3.0...v0.4.0) (2025-12-23)
+
+
+### Features
+
+* **templates:** let invite.html fall back to d-il's base template ([16c0960](https://github.com/acdh-oeaw/django-invitelink/commit/16c096088e2ff2c5104b0b29f1ea0905fd17f8f0))
+* **templates:** move `invite.html` to `django_invitelink` directory ([34847be](https://github.com/acdh-oeaw/django-invitelink/commit/34847be97fde83fa4049b262bef27bc52d301432))
+* **templates:** ship base template ([1f26ba9](https://github.com/acdh-oeaw/django-invitelink/commit/1f26ba9b9e0274559d52e62744c0f3ca55d10ed4))
+
 ## [0.3.0](https://github.com/acdh-oeaw/django-invitelink/compare/v0.2.0...v0.3.0) (2025-12-23)
 
 
