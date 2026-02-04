@@ -17,7 +17,7 @@ issues = "https://github.com/acdh-oeaw/django-invitelink/issues"
 
 [dependency-groups]
 dev = [
-  "ruff>=0.5.4,<0.15.0",
+  "ruff>=0.5.4,<0.16.0",
   "djlint~=1.34"
 ]
 
